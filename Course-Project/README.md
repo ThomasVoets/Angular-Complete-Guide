@@ -12,3 +12,5 @@ Added features:
 - Navigation
 - Select a Recipe and display it's details
 - Add an ingredient to the ingredients list
+
+## Directives
