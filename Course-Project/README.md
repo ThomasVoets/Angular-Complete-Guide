@@ -14,3 +14,5 @@ Added features:
 - Add an ingredient to the ingredients list
 
 ## Directives
+
+With the help of a custom directive, the dropdown menus can be opened and closed.
